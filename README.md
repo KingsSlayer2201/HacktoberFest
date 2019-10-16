@@ -13,6 +13,8 @@ Some  successful start ups of our college alumni and students are as follows:
 
 Jo bc 
 
+har aadmi gaandu
+
 RJ betichod 
 # Rules
 
