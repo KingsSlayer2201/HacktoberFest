@@ -25,6 +25,8 @@ To get a shirt, you must make five pull requests (PRs) between October 1–31 in
 # Values
 Hacktoberfest guiding values:
 
+
+Jai hind dosto
 Everyone is welcome
 Quantity is fun, quality is key
 Short term actions, long term impact
